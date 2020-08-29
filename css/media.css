@@ -1,0 +1,881 @@
+@media (max-width: 1600px) {
+  .world-map__img {
+    width: 900px;
+  }
+  .header-data__title {
+    font-size: 44px;
+  }
+}
+@media (max-width: 1440px) {
+  .main-block__content:first-child {
+    padding-bottom: 60px;
+  }
+  .virus-1 {
+    max-width: 130px;
+  }
+  .virus-2 {
+    left: 230px;
+    max-width: 100px;
+  }
+  .virus-4 {
+    max-width: 200px;
+  }
+  .red-virus {
+    max-width: 230px;
+    left: 155px;
+  }
+  .green-virus {
+    right: 165px;
+  }
+  .yellow-virus {
+    right: 245px;
+  }
+  .symptomps__img-info::before {
+    left: -9%;
+  }
+  .symptomps__img-info::after {
+    right: -9%;
+  }
+  .rules-item:first-child::before {
+    left: -23%;
+  }
+  .world-map__img {
+    width: 800px;
+  }
+  .header-data__title {
+    font-size: 36px;
+  }
+  .map-data {
+    max-width: 400px;
+  }
+  .map-data-item__name {
+    font-size: 26px;
+  }
+}
+
+@media (max-width: 1366px) {
+  .main-block__title {
+    font-size: 26px;
+  }
+  .main-block__subtitle {
+    font-size: 48px;
+    margin-bottom: 25px;
+  }
+  .main-block__text {
+    line-height: 160%;
+  }
+  .virus-2 {
+    left: 210px;
+    top: 115px;
+  }
+  .red-virus {
+    max-width: 200px;
+    left: 150px;
+  }
+  .yellow-virus {
+    right: 235px;
+    bottom: 95px;
+  }
+  .contagion-cards__item {
+    padding-bottom: 65px;
+  }
+  .contagion-cards__title {
+    font-size: 32px;
+  }
+  .symptomps__img {
+    max-width: 900px;
+  }
+  .rules-item:last-child::after {
+    right: -21%;
+  }
+  .header-data__title {
+    font-size: 31px;
+    margin-right: 20px;
+  }
+  .map-data {
+    max-width: 400px;
+  }
+  .map-data-item__name {
+    font-size: 20px;
+  }
+  .map-data-item__counter {
+    font-size: 20px;
+  }
+  .svgMap-map-wrapper {
+    padding-top: 50%;
+  }
+}
+
+@media (max-width: 1280px) {
+  .main-block__title {
+    font-size: 22px;
+  }
+  .main-block__subtitle {
+    font-size: 38px;
+  }
+  .main-block__text {
+    font-size: 18px;
+    width: 470px;
+  }
+  .main-block__btn {
+    font-size: 20px;
+    padding: 15px;
+    width: 230px;
+  }
+  .virus-1 {
+    max-width: 100px;
+  }
+  .virus-2 {
+    left: 33%;
+  }
+  .virus-3 {
+    max-width: 80px;
+  }
+  .red-virus {
+    max-width: 185px;
+    top: 95px;
+    left: 140px;
+  }
+  .green-virus {
+    max-width: 135px;
+    top: 125px;
+    right: 155px;
+  }
+  .yellow-virus {
+    right: 220px;
+    bottom: 75px;
+  }
+  .block-title {
+    font-size: 24px;
+  }
+  .block-subtitle {
+    font-size: 44px;
+  }
+  .overview-block__description {
+    font-size: 18px;
+  }
+  .contagion-cards__title {
+    font-size: 30px;
+  }
+  .rules-item__content {
+    max-width: 460px;
+  }
+  .rules-item__img {
+    max-width: 430px;
+  }
+  .world-map__img {
+    width: 720px;
+  }
+  .map-data {
+    max-width: 350px;
+  }
+}
+@media (max-width: 1024px) {
+  .navigation__list {
+    font-size: 16px;
+  }
+  .header-navigation__btn {
+    font-size: 16px;
+    padding: 14px 40px;
+  }
+  .main-block__title {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .main-block__subtitle {
+    font-size: 34px;
+  }
+  .main-block__text {
+    font-size: 16px;
+    width: 425px;
+  }
+  .main-block__btn {
+    font-size: 18px;
+    width: 200px;
+  }
+  .virus-2 {
+    max-width: 80px;
+  }
+  .overview-block-img {
+    background-size: 120%;
+  }
+  .overview-block__virus-bg {
+    max-width: 355px;
+    bottom: -105px;
+    left: -80px;
+  }
+  .overview-block__virus-bg-text {
+    max-width: 260px;
+  }
+  .red-virus {
+    max-width: 160px;
+    left: 110px;
+  }
+  .green-virus {
+    max-width: 120px;
+    right: 105px;
+  }
+  .yellow-virus {
+    right: 155px;
+    bottom: 105px;
+  }
+  .overview-block__description {
+    margin: 0 0 30px 0;
+  }
+  .contagion__title-row {
+    margin-bottom: 70px;
+  }
+  .contagion-cards__item {
+    padding: 30px;
+    min-height: 420px;
+  }
+  .contagion-cards__img {
+    margin-bottom: 45px;
+}
+  .contagion-cards__item:nth-child(2) {
+    padding-top: 10px;
+}
+  .contagion-cards__title {
+    font-size:20px;
+  }
+  .contagion-cards__description {
+    font-size: 16px;
+  }
+  .symptomps__img {
+    max-width: 800px;
+  }
+  .symptomps__img-info::before {
+    left: -13%;
+  }
+  .symptomps__img-info::after {
+    height: 110px;
+    max-width: 140px;
+  }
+  .rules-item {
+    margin: 0 0 30px 0;
+  }
+  .rules-item__content {
+    max-width: 350px;
+  }
+  .rules-item__title {
+    font-size: 40px;
+  }
+  .rules-item__img {
+    max-width: 350px;
+  }
+  .rules-item:first-child::before {
+    height: 200px;
+    max-width: 200px;
+    left: -20%;
+  }
+  .rules-item:last-child::before {
+    height: 70px;
+    max-width: 70px;
+  }
+  .rules-item:last-child::after {
+    height: 250px;
+    max-width: 250px;
+  }
+
+  .world-map-covid {
+    width: 100%;
+    position: relative;
+    box-shadow: 0px 7px 95px rgba(0, 0, 0, 0.07);
+    border-radius: 10px;
+  }
+  .map {
+    padding: 50px 0 100px 0;
+  }
+  .statistic-country {
+    bottom: 2%;
+    left: 2%;
+  }
+  .control-block {
+    margin: 10px;
+  }
+  .map__data {
+    position: relative;
+    margin: 30px auto 0 auto;
+    max-width: 500px;
+  }
+  .feedback__inner::after {
+    width: 100px;
+    height: 100px;
+  }
+  .feedback::after {
+    right: -20%;
+  }
+}
+@media (max-width: 800px) {
+  .header-navigation__logo-img {
+    max-width: 90%;
+  }
+
+  .menu-mobile {
+    display: flex;
+    flex-direction: column;
+    height: 0;
+    visibility: hidden;
+    transform: translate(-100px);
+    transition: all 0.3s ease;
+    overflow: hidden;
+  }
+  .menu-mobile.open {
+    height: 300px;
+    visibility: visible;
+    overflow: hidden;
+    transform: translate(0px);
+  }
+  .navigation__list {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    margin: 25px auto 0 0;
+  }
+  .navigation__item {
+    margin: 0 0 25px 10px;
+  }
+  .navigation__link:hover::after {
+    transform: translateY(50%) scale(1);
+  }
+  .navigation__link::after {
+    bottom: 50%;
+    left: auto;
+    right: -20px;
+  }
+  .header-navigation__btn {
+    margin-right: auto;
+  }
+  .burger {
+    margin-left: auto;
+    display: flex;
+  }
+  .main-block__content:first-child {
+    padding-bottom: 20px;
+  }
+  .main-block__subtitle {
+    font-size: 28px;
+    margin-bottom: 15px;
+  }
+  .main-block__text {
+    width: 355px;
+  }
+  .main-block__btn {
+    width: 170px;
+    padding: 12px;
+  }
+  .virus-1 {
+    max-width: 80px;
+    top: -50px;
+  }
+  .virus-2 {
+    max-width: 60px;
+    top: 90px;
+  }
+  .virus-3 {
+    max-width: 60px;
+  }
+  .virus-4 {
+    max-width: 130px;
+    top: 100px;
+    right: -90px;
+  }
+  .overview__inner {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .overview-block-img {
+    background-size: contain;
+    height: 400px;
+  }
+  .overview-block-text {
+    align-items: center;
+    text-align: center;
+  }
+  .overview-block__link {
+    padding: 20px 50px;
+  }
+  .red-virus {
+    max-width: 140px;
+    left: 250px;
+  }
+  .green-virus {
+    max-width: 100px;
+    right: 250px;
+  }
+  .yellow-virus {
+    right: 42%;
+    bottom: 105px;
+    max-width: 100px;
+  }
+  .contagion-cards {
+    grid-template-columns: 380px;
+    justify-content: center;
+  }
+  .contagion-cards__item {
+    padding: 55px;
+}
+  .symptomps__img {
+    max-width: 600px;
+  }
+  
+  .symptomps__img-info::before {
+    height: 115px;
+    max-width: 145px;
+  }
+  .symptomps__img-info::after {
+    right: -14%;
+  }
+  .rules-item {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .rules-item:nth-child(2n) {
+    flex-direction: column-reverse;
+  }
+  .rules-item__image {
+    margin-bottom: 20px;
+  }
+  .rules-item__content {
+    max-width: 530px;
+  }
+  .rules-item__title {
+    text-align: center;
+  }
+  .rules-item:first-child::before {
+    top: 16%;
+  }
+  .world-map-covid {
+    height: 400px;
+    margin: 0 auto;
+    margin-bottom: 130px;
+    position: static;
+    box-shadow: 0px 7px 95px rgba(0, 0, 0, 0.15);
+  }
+  .control-block {
+    width: 60px;
+  }
+  .control-block__btn .control-block__img {
+    padding: 16px 16px;
+  }
+  .control-block__minus .control-block__img,
+  .control-block__plus .control-block__img {
+    width: 20px;
+    height: 20px;
+  }
+  .control-block__btn:last-child .control-block__img {
+    width: 15px;
+    height: 35px;
+  }
+  .statistic-country {
+    bottom: -100px;
+    left: 50%;
+    transform: translateX(-50%);
+    /* left: auto; */
+    /* right: auto; */
+    width: 650px;
+    height: 50px;
+    font-size: 14px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 auto;
+  }
+  .feedback__title {
+    font-size: 48px;
+    line-height: 72px;
+    width: 75%;
+  }
+  .feedback__form {
+    width: 660px;
+  }
+  .feedback::after {
+    right: auto;
+    left: 0;
+    top: 0;
+    bottom: auto;
+    width: 100px;
+    height: 100px;
+  }
+  .footer-main {
+    flex-direction: column;
+  }
+  .footer .navigation__list {
+    margin-bottom: 40px;
+  }
+}
+@media (max-width: 600px) {
+  .main__inner {
+    padding: 45px 0 50px 0;
+  }
+  .main-block__title {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .main-block__subtitle {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  .main-block__text {
+    width: 280px;
+    font-size: 14px;
+  }
+  .main-block__btn {
+    width: 150px;
+    padding: 10px;
+  }
+  .virus-2 {
+    max-width: 40px;
+    top: 60px;
+  }
+  .overview {
+    padding: 80px 0 0 0;
+  }
+  .overview-block__description {
+    width: 90%;
+    text-align: justify;
+  }
+  .red-virus {
+    left: 30%;
+  }
+  .green-virus {
+    right: 30%;
+  }
+  .contagion__title-row {
+    margin-bottom: 50px;
+  }
+  .contagion-cards {
+    grid-template-columns: 0.6fr;
+}
+.contagion-cards__item {
+  padding: 35px;
+}
+  .symptomps__img-info::before,
+  .symptomps__img-info::after {
+    display: none;
+  }
+  .rules-item__content {
+    width: 90%;
+  }
+  .rules-item__title::before {
+    left: -1%;
+  }
+  .rules-item:first-child::before {
+    height: 150px;
+    max-width: 150px;
+  }
+  /* .map__data {
+    margin-left: 0;
+  } */
+  .map__data {
+    max-width: 420px;
+  }
+  .statistic-country {
+    width: 150px;
+    flex-direction: column;
+    height: 160px;
+  }
+  .control-block__minus .control-block__img,
+  .control-block__plus .control-block__img {
+    width: 16px;
+    height: 16px;
+  }
+  .control-block__btn:last-child .control-block__img {
+    width: 100%;
+    height: auto;
+    max-width: 16px;
+  }
+  .world-map__scale {
+    padding: 16px;
+  }
+  .feedback__title {
+    font-size: 36px;
+    line-height: 54px;
+    margin-bottom: 40px;
+  }
+  .feedback__form {
+    width: 90%;
+  }
+  .feedback__inner::after {
+    right: -5%;
+  }
+}
+@media (max-width: 576px) {
+  .map__data {
+    max-width: 320px;
+  }
+}
+@media (max-width: 480px) {
+  .navigation__list {
+    font-size: 18px;
+    margin: 25px 0 0 0;
+  }
+  .header-navigation__btn {
+    margin: auto;
+  }
+  .menu-mobile {
+    transform: translateY(-50px);
+  }
+  .menu-mobile.open {
+    transform: translateY(0px);
+  }
+  .main__inner {
+    grid-template-columns: 1fr;
+    justify-content: center;
+  }
+  .main-block__content:first-child {
+    text-align: center;
+    padding-bottom: 50px;
+  }
+  .main-block__subtitle {
+    font-size: 34px;
+    margin-bottom: 20px;
+  }
+  .main-block__text {
+    width: 300px;
+    font-size: 16px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+  .main-block__btn {
+    margin: 0 auto;
+  }
+  .virus-2 {
+    top: 110px;
+  }
+  .overview-block__description {
+    font-size: 16px;
+  }
+  .red-virus {
+    left: 25%;
+  }
+  .green-virus {
+    right: 27%;
+  }
+  .yellow-virus {
+    right: 36%;
+  }
+  .contagion__title-row {
+    margin-bottom: 30px;
+  }
+  .contagion__description {
+    max-width: 90%;
+  }
+  .contagion-cards {
+    grid-template-columns: 0.7fr;
+}
+  .contagion-cards__description {
+    font-size: 16px;
+}
+  .symptomps__description {
+    width: 90%;
+  }
+  .symptomps__img {
+    max-width: 400px;
+  }
+  .rules-item__title::before {
+    display: none;
+  }
+  .rules-item:first-child::before {
+    left: -35%;
+  }
+  .rules-item:last-child::after {
+    right: -37%;
+  }
+  
+  .map {
+    padding: 0 0 30px 0;
+}
+  .world-map-covid {
+    height: 270px;
+    margin-bottom: 150px;
+  }
+  .map-data {
+    max-width: 90%;
+  }
+  .map-data__header {
+    margin-bottom: 20px;
+  }
+  .header-data__buttons {
+    top: 8%;
+  }
+  .statistic-country {
+    flex-wrap: nowrap;
+    width: 155px;
+    height: 140px;
+    bottom: -130px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .map-data-item__flag {
+    margin-right: 15px;
+    width: 35px;
+    height: 25px;
+  }
+  .map-data-item__name {
+    font-size: 16px;
+  }
+  .map-data-item__counter {
+    font-size: 16px;
+  }
+  .feedback__title {
+    width: 90%;
+  }
+  .feedback__form {
+    background: transparent;
+    box-shadow: none;
+    border-radius: 0;
+    flex-direction: column;
+    align-items: center;
+  }
+  .feedback__input {
+    background: #ffffff;
+    box-shadow: 0px 8px 80px rgba(0, 0, 0, 0.06);
+    border-radius: 57px;
+    margin-bottom: 20px;
+    padding: 25px;
+  }
+  .feedback__submit::before {
+    transform: translateX(-250px);
+  }
+  .feedback__inner::after {
+    top: 45px;
+  }
+  .feedback::after {
+    top: 100px;
+  }
+  .modal-header-window__input {
+    width: 90%;
+    padding: 20px;
+  }
+}
+@media (max-width: 414px) {
+  .map-data-item__flag {
+    margin-right: 20px;
+    width: 35px;
+    height: 25px;
+  }
+  .map-data-item__name {
+    font-size: 16px;
+  }
+  .map-data-item__counter {
+    font-size: 16px;
+  }
+  .map-data-item__counter::after {
+    width: 10px;
+    height: 14px;
+    background-size: contain;
+    right: -10px;
+  }
+}
+@media (max-width: 375px) {
+  .block-description {
+    font-size: 16px;
+  }
+  .red-virus {
+    max-width: 100px;
+    top: 125px;
+  }
+  .green-virus {
+    max-width: 80px;
+    top: 145px;
+  }
+  .overview-block__virus-bg-text-sm {
+    bottom: -170px;
+  }
+  .overview-block__virus-bg-text {
+    max-width: 170px;
+    bottom: -30px;
+    right: -120px;
+  }
+  .contagion-cards {
+    grid-template-columns: 0.8fr;
+}
+.contagion-cards__item {
+  min-height: 380px;
+}
+.contagion-cards__description {
+  font-size: 15px;
+}
+  .rules-item__text {
+    font-size: 16px;
+    text-align: center;.
+    text-transform: none;
+  }
+  .rules-item:first-child::before,
+  .rules-item:last-child::before,
+  .rules-item:last-child::after {
+    display: none;
+  }
+  .header-data__title {
+    font-size: 26px;
+  }
+  .world-map {
+    margin-bottom: 60px;
+  }
+
+  .control-block {
+    width: 50px;
+  }
+  .control-block__btn .control-block__img {
+    padding: 14px 14px;
+  }
+  .header-data__buttons {
+    top: 4%;
+  }
+  .map__data {
+    width: 85%;
+    padding: 20px 30px 20px 20px;
+  }
+
+  .feedback__title {
+    font-size: 28px;
+    line-height: 42px;
+    margin-bottom: 20px;
+  }
+  .feedback::after {
+    top: 70px;
+    left: -12%;
+  }
+  .feedback__inner::after {
+    top: -45px;
+    width: 50px;
+    height: 50px;
+  }
+}
+@media (max-width: 320px) {
+  .main-block__subtitle {
+    font-size: 28px;
+  }
+  .virus-2 {
+    top: 80px;
+  }
+  .rules-item__title {
+    font-size: 32px;
+  }
+  .header-data__btn {
+    padding: 12px;
+  }
+  .header-data__img {
+    max-width: 10px;
+  }
+  .contagion-cards__item {
+    padding: 25px;
+}
+  .map-data-item__flag {
+    margin-right: 15px;
+    width: 25px;
+  }
+  .map-data-item__counter {
+    font-size: 18px;
+  }
+  .feedback__title {
+    width: 100%;
+  }
+  .feedback::after {
+    top: 0;
+    left: -4%;
+    width: 50px;
+    height: 50px;
+  }
+}

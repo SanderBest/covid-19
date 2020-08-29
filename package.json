@@ -1,0 +1,28 @@
+{
+  "name": "covid-19",
+  "version": "1.0.0",
+  "description": "Site about COVID-19",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "Sander",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.11"
+  },
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}

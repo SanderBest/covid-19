@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<!-- prev -->
+<symbol id="prev" viewBox="0 0 11 19" fill="none">
+<g>
+<path d="M9.22201 16.8869L1.87891 9.54379L9.22201 2.20068" stroke-width="2.85" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</symbol>
+
+<!-- next -->
+<symbol id="next" viewBox="0 0 11 19" fill="none">
+<g>
+<path d="M2.18485 2.06794L9.52795 9.41104L2.18485 16.7541" stroke-width="2.85" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</symbol>
+</svg>

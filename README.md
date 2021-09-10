@@ -20,6 +20,6 @@
   - получение данных по API о количестве зараженных, выздоровевших, смертей;
   - страница добавлена на GitHub
 
-Ссылка: https://sanderbest.github.io/covid-19/
+Ссылка: https://sandervanoff.github.io/covid-19/
 ![YR3l1SsiDPZBBm2R](https://user-images.githubusercontent.com/61217980/130010615-6843324b-8612-46ab-b82c-1ba4af80adbb.png)
 
